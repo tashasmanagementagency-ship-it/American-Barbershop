@@ -14,7 +14,7 @@ export function PriceListView({ onNavigate }: { onNavigate: (view: ViewId) => vo
           Price List / Cijenik
         </h1>
         <p className="max-w-[62ch] mx-auto mb-8 sm:mb-10 text-[15px] sm:text-[17px]">
-          All prices in euros. Cash and card accepted. Every service by our barber &amp; male
+          All prices in euros. Cash only. Every service by our barber &amp; male
           stylist (muški frizer / brijač) includes the time it takes to do it right — no
           rushed cuts.
         </p>
